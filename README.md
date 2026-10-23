@@ -3,7 +3,6 @@
 ### What am I up to?
 Right now I'm focused on Unity and everything related to game development!<br>
 There should be short trailers in the pinned game repositories, if you wanna check it out :)
-
 ### Featured games
 - 🎯 [1Shot](https://github.com/EdvinRitz/1Shot) — an endless arena shooter with roguelike elements and unique gunplay. Work in progress.
 - 🥽 [ScaniaPaintVR](https://github.com/EdvinRitz/ScaniaPaintVR) — a VR truck-painting game made during ScaniaHack 2026. [Watch the trailer](https://www.youtube.com/watch?v=xY2-T0P1p9M).
