@@ -50,6 +50,20 @@ jobs:
           token: ${{ secrets.GITHUB_TOKEN }}
           fail_on_error: true
 
+      - name: Generate dark streak card
+        uses: DenverCoder1/github-readme-streak-stats@v1
+        with:
+          options: user=${{ github.repository_owner }}&theme=dracula
+          path: profile/streak-dark.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Generate light streak card
+        uses: DenverCoder1/github-readme-streak-stats@v1
+        with:
+          options: user=${{ github.repository_owner }}&theme=catppuccin-latte
+          path: profile/streak-light.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
       - name: Commit updated cards
         run: |
           git config user.name "github-actions[bot]"
