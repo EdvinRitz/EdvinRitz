@@ -1,7 +1,7 @@
 # Hi, I'm Edvin!
 
 ### What am I up to?
-Right now I'm focused on Unity and everyhing related to game development!
+Right now I'm focused on Unity and everyhing related to game development!<br>
 There should be short trailers in the pinned game repositories if you wanna check it out :)
 
 <p align="left">
