@@ -1,8 +1,8 @@
 # Hi, I'm Edvin!
 
 ### What am I up to?
-Right now I'm focused on Unity and everyhing related to game development!<br>
-There should be short trailers in the pinned game repositories if you wanna check it out :)
+Right now I'm focused on Unity and everything related to game development!<br>
+There should be short trailers in the pinned game repositories, if you wanna check it out :)
 
 <p align="left">
   <img src="./profile/stats-light.svg#gh-light-mode-only" alt="Edvin’s GitHub stats" height="165" />
