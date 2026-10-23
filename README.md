@@ -9,12 +9,7 @@ There should be short trailers in the pinned game repositories, if you wanna che
 
 <p align="left">
   <img src="./profile/stats-light.svg#gh-light-mode-only" alt="Edvin’s GitHub stats" height="165" />
-  <img src="./profile/top-langs-light.svg#gh-light-mode-only" alt="Edvin’s top languages" height="165" />
-  <img src="./profile/stats-dark.svg#gh-dark-mode-only" alt="Edvin’s GitHub stats" height="165" />
-  <img src="./profile/top-langs-dark.svg#gh-dark-mode-only" alt="Edvin’s top languages" height="165" />
-</p>
-
-<p align="left">
   <img src="./profile/streak-light.svg#gh-light-mode-only" alt="Edvin’s GitHub contribution streak" height="165" />
+  <img src="./profile/stats-dark.svg#gh-dark-mode-only" alt="Edvin’s GitHub stats" height="165" />
   <img src="./profile/streak-dark.svg#gh-dark-mode-only" alt="Edvin’s GitHub contribution streak" height="165" />
 </p>
